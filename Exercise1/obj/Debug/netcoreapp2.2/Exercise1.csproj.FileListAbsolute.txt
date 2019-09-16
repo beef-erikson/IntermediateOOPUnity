@@ -1,0 +1,11 @@
+C:\Users\Beef Erikson Studios\source\repos\C#\Coursera - Intermediate OOP again\IntermediateOOPUnity\Exercise1\bin\Debug\netcoreapp2.2\Exercise1.deps.json
+C:\Users\Beef Erikson Studios\source\repos\C#\Coursera - Intermediate OOP again\IntermediateOOPUnity\Exercise1\bin\Debug\netcoreapp2.2\Exercise1.runtimeconfig.json
+C:\Users\Beef Erikson Studios\source\repos\C#\Coursera - Intermediate OOP again\IntermediateOOPUnity\Exercise1\bin\Debug\netcoreapp2.2\Exercise1.runtimeconfig.dev.json
+C:\Users\Beef Erikson Studios\source\repos\C#\Coursera - Intermediate OOP again\IntermediateOOPUnity\Exercise1\bin\Debug\netcoreapp2.2\Exercise1.dll
+C:\Users\Beef Erikson Studios\source\repos\C#\Coursera - Intermediate OOP again\IntermediateOOPUnity\Exercise1\bin\Debug\netcoreapp2.2\Exercise1.pdb
+C:\Users\Beef Erikson Studios\source\repos\C#\Coursera - Intermediate OOP again\IntermediateOOPUnity\Exercise1\obj\Debug\netcoreapp2.2\Exercise1.csprojAssemblyReference.cache
+C:\Users\Beef Erikson Studios\source\repos\C#\Coursera - Intermediate OOP again\IntermediateOOPUnity\Exercise1\obj\Debug\netcoreapp2.2\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\Beef Erikson Studios\source\repos\C#\Coursera - Intermediate OOP again\IntermediateOOPUnity\Exercise1\obj\Debug\netcoreapp2.2\Exercise1.AssemblyInfoInputs.cache
+C:\Users\Beef Erikson Studios\source\repos\C#\Coursera - Intermediate OOP again\IntermediateOOPUnity\Exercise1\obj\Debug\netcoreapp2.2\Exercise1.AssemblyInfo.cs
+C:\Users\Beef Erikson Studios\source\repos\C#\Coursera - Intermediate OOP again\IntermediateOOPUnity\Exercise1\obj\Debug\netcoreapp2.2\Exercise1.dll
+C:\Users\Beef Erikson Studios\source\repos\C#\Coursera - Intermediate OOP again\IntermediateOOPUnity\Exercise1\obj\Debug\netcoreapp2.2\Exercise1.pdb

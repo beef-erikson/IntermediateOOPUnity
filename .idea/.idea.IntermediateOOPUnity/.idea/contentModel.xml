@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Beef Erikson Studios\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Beef Erikson Studios\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_IntermediateOOPUnity.-935337753.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Beef Erikson Studios\source\repos\C#\Coursera - Intermediate OOP again\IntermediateOOPUnity" t="IncludeFlat">
+      <e p="Exercise1" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Exercise1.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Exercise1.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="Exercise2" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Exercise2.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Exercise2.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="IntermediateOOPUnity.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
