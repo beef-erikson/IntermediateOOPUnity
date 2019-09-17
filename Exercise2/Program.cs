@@ -10,6 +10,7 @@ namespace Exercise2
         static void Main(string[] args)
         {
             StreamReader input = null;
+            Console.WriteLine();
             
             // Outputs file
             try
